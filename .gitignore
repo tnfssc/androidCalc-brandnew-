@@ -1,0 +1,9 @@
+node_modules
+.watchmanconfig
+.prettierrc.js
+.flowconfig
+.eslintrc.js
+.buckconfig
+.vs
+.idea
+.ignore
